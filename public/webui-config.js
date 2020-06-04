@@ -8,8 +8,8 @@ var DeploymentConfig = {
   authEnabled: false,
   authType: 'aad',
   aad : {
-    tenant: '00000000-0000-0000-0000-000000000000',
-    appId: '00000000-0000-0000-0000-000000000000',
+    tenant: 'a97b1e23-90d8-418a-9f1d-1d42da1411af',
+    appId: '76425532-9950-4686-af1e-e788fd132cd9',
     instance: ''
   }
 }
